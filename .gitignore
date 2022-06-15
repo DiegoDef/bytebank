@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+// angular version: 13.1.2 (no terminal), na hora de instalar selecionei 13.3.0
+// node 14.18.2
